@@ -4,3 +4,5 @@ Mi repositorio de practicas de GitHub
 - Me gustaria saber manejar bien Git
 - Me gustaria saber manejar bien GitHub
 - Quiero ser buen profesional
+- Quiero ser buen informatico
+- Aprender a programar
